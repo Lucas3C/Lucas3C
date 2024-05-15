@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### olá me chamo Lucas sou do 3C
 <!--
 **Lucas3C/Lucas3C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
